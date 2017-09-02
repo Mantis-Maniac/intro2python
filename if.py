@@ -1,4 +1,4 @@
-a = input()
+a = input("please enter your age:")
 
 if a > 12:
     print("adult")
